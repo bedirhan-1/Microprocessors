@@ -1,5 +1,7 @@
 # Bilgisayar Mimarisi
 
+Aşağıdaki başlıklar ve alt başlıklar bilgisayar içerisinde ne olduğunu katmanlar halinde belirtmek için oluşturulmuştur. Özellikle Mikroişlemci bölümleri belirtilmek üzere tasarlanmıştır.  
+
 ## CPU (Merkezi İşlem Birimi) 🧠
 - **ALU (Aritmetik Mantık Birimi) 🧮**
   - Register (Kayıt Birimi) 📝
