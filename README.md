@@ -1,61 +1,50 @@
-# Computer Architecture
+# Bilgisayar Mimarisi
 
-Aşağıdaki başlıklar ve içerikleri mikroişlemcinin birimlerini temsil etmektedir.
+## CPU (Merkezi İşlem Birimi) 🧠
+- **ALU (Aritmetik Mantık Birimi) 🧮**
+  - Register (Kayıt Birimi) 📝
+  - Adder (Toplayıcı Devre) ➕
+  - Multiplier (Çarpan Devre) ✖️
+- **Control Unit (Kontrol Birimi) 🕹️**
+  - Instruction Decoder (Komut Çözümleyici) 💡
+  - Execution Unit (Yürütme Birimi) 💼
+    - Arithmetic Execution (Aritmetik Yürütme Mantığı) 🧮
+    - Logic Execution (Mantıksal Yürütme Mantığı) ⚙️
+    - ShiftRotate Execution (Kaydırma ve Döndürme Yürütme Mantığı) 🔄
+- **Memory (Bellek Birimi) 📚**
+  - RAM (Rastgele Erişimli Bellek) 🔄
+  - ROM (Salt Okunur Bellek) 📖
+- **Bus (Veri Yolu) 🚌**
+  - Address Bus (Adres Veri Yolu) 🌐
+  - Data Bus (Veri Yolu) 🌐
+  - Bus Interface Unit (Veri Yolu Arayüz Birimi) 🌐
+    - Segments (Segmentler) 📂
+      - Code Segment (Kod Segmenti) 📝
+      - Data Segment (Veri Segmenti) 📊
+      - Stack Segment (Yığın Segmenti) 📚
+- **Clock (Saat Devresi) 🕰️**
+- **InputOutput (Giriş/Çıkış Arayüzü) 🖱️🎤**
+  - Port (Port) 🚪
+- **Interrupt (Kesme Kontrol Birimi) 🚨**
+- **Flag Register (Bayrak Kaydı) 🚩**
+- **General Purpose Registers (Genel Amaçlı Kayıtlar) 📇**
 
-## CPU (Central Processing Unit) 🧠
+## Anakart (Motherboard) 🖥️
+- **BIOS (Temel Giriş/Çıkış Sistemi) ⚙️**
+- **Chipset (Yonga Seti) 🤝**
+- **InputOutput Controller (Giriş/Çıkış Kontrol Birimi) 🎮**
+- **Memory Controller (Bellek Kontrol Birimi) 📚**
 
-- **ALU (Arithmetic Logic Unit) 🧮**
-  - Register 📝
-  - Adder ➕
-  - Multiplier ✖️
-- **Control Unit 🕹️**
-  - Instruction Decoder 💡
-  - Execution Unit 💼
-    - Arithmetic Execution 🧮
-    - Logic Execution ⚙️
-    - ShiftRotate Execution 🔄
-- **Memory 📚**
-  - RAM (Random Access Memory) 🔄
-  - ROM (Read-Only Memory) 📖
-- **Bus (Data Bus, Address Bus) 🚌**
-  - Bus Interface Unit 🌐
-    - Segments 📂
-      - Code Segment 📝
-      - Data Segment 📊
-      - Stack Segment 📚
-- **Clock 🕰️**
-- **Input/Output 🖱️🎤**
-  - Port 🚪
-- **Interrupt 🚨**
-- **Flag Register 🚩**
-- **General Purpose Registers 📇**
+## Depolama (Storage) 💽
+- **HDD (Sabit Disk Sürücüsü) 🏬**
+- **SSD (Katı Hal Sürücüsü) 💾**
 
-## Motherboard 🖥️
+## RAM (Rastgele Erişimli Bellek) 🔄
 
-- **BIOS (Basic Input/Output System) ⚙️**
-- **Chipset 🤝**
-- **Input/Output Controller 🎮**
-- **Memory Controller 📚**
+## GPU (Grafik İşlemci Birimi) 🎨
 
-## Storage 💽
+## Ağ Arayüz Kartı (Network Interface Card) 🌐
 
-- **HDD (Hard Disk Drive) 🏬**
-- **SSD (Solid State Drive) 💾**
+## Güç Kaynağı Birimi (Power Supply Unit) ⚡
 
-## RAM (Random Access Memory) 🔄
-
-## GPU (Graphics Processing Unit) 🎨
-
-## Network Interface Card (NIC) 🌐
-
-## Power Supply Unit (PSU) ⚡
-
-## Input Devices 🖱️🎤
-
-- **Keyboard ⌨️**
-- **Mouse 🖱️**
-
-## Output Devices 📺🖨️
-
-- **Monitor 📺**
-- **Printer 🖨️**
+## Giriş Cihazları (Input Devices) 🖱️🎤
