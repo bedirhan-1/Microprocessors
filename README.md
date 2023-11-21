@@ -1,5 +1,7 @@
 # Computer Architecture
 
+Aşağıdaki başlıklar ve içerikleri mikroişlemcinin birimlerini temsil etmektedir.
+
 ## CPU (Central Processing Unit) 🧠
 
 - **ALU (Arithmetic Logic Unit) 🧮**
